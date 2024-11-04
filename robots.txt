@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emaliesi.github.io/MSs/sitemap_index.txt
+Sitemap: https://emaliesi.github.io/NYL/sitemap_index.txt
+Sitemap: https://emaliesi.github.io/UyZ/sitemap_index.txt
+Sitemap: https://emaliesi.github.io/avh/sitemap_index.txt
